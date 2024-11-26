@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistence
+namespace Application.CQRS.Product.Handler.Command
 {
-    internal class DbContext
+    internal class CreateProductCommandHandler
     {
     }
 }
